@@ -53,5 +53,5 @@ Currently, my focus is on automation and predictive analysis.
 
 🔗 Let's Connect
 
-* LinkedIn: Jeanette Pérez Carnota
-* Web Portfolio: https://perezjns.github.io
+### 🔗 Conectemos
+*   **LinkedIn:** [Jeanette Pérez Carnota](https://www.linkedin.com/in/jeanetteperezcarnota)
